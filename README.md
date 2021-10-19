@@ -5,5 +5,5 @@ as other predictors such as by year and by region, if applicable.
 A rudimentary check of the applicability of such a model including `year`, 
 `region`, `u5mr`, requires us to start by analysing the simple linear model of 
 `scaled_nmr` on `year` and adding more covariates if it improves the fit of our model, as 
-determined by the adjusted $R^{2}$. That is, does adding more covariates
+determined by the adjusted R^2. That is, does adding more covariates
 describe more of our child mortality data?
